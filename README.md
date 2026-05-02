@@ -19,7 +19,7 @@ The goal is to transform raw transactional data into meaningful business insight
 
 ---
 
-## 🗂️ Dataset Description
+## Dataset Description
 
 The dataset contains detailed records of car sales, including:
 
