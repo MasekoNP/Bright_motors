@@ -96,6 +96,7 @@ The following steps were performed:
 * **Excel / Power BI** – Data visualisation and dashboards
 * **GitHub** – Project documentation and version control
 
+
 ---
 
 ## Example Business Questions Answered
