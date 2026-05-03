@@ -46,13 +46,6 @@ SELECT
 FROM `big-query-project-493910.Car_sales.Car_sales_data`; 
 
 --------------------------------------------------------
-------------------------------------------------- Checking the first and last year of sales made 
---Start and end years are 2014 and 2015, respectively
-SELECT 
-        MIN(year) AS Start_year,
-        MAX(year) AS End_year
-FROM `big-query-project-493910.Car_sales.Car_sales_data`;
---------------------------------------------------------
 -- Checking different make of cars
 --There is 97 different make of cars
 SELECT DISTINCT make
