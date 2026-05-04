@@ -76,6 +76,12 @@ SELECT DISTINCT `transmission`
 FROM `big-query-project-493910.Car_sales.Car_sales_data`; 
 
 ---------------------------------------------------------
+-- Checking different states
+-- There is 38 different states where cars are sold
+SELECT DISTINCT `state`
+FROM `big-query-project-493910.Car_sales.Car_sales_data`;
+
+---------------------------------------------------------
 -- Checking the highest and lowest condition ratings
 -- Ratings range from 1 and 49
 SELECT 
