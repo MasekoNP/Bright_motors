@@ -94,6 +94,7 @@ The following steps were performed:
 
 * **SQL (BigQuery)** – Data cleaning and analysis
 * **Excel / Power BI** – Data visualisation and dashboards
+* **Miro** - Project planning (Flowchart and gantt chart)
 * **GitHub** – Project documentation and version control
 
 
